@@ -1,4 +1,4 @@
-# Weather Agent con LLM opcional
+# Weather Agent con LLM 
 
 Proyecto escolar en Python que consulta el clima actual de una ciudad usando la API publica de Open-Meteo. Tambien puede usar un LLM de forma opcional para entender frases naturales y redactar un reporte mas conversacional.
 
