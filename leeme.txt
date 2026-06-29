@@ -1,0 +1,9 @@
+Pregunta del usuario
+↓
+LLM local en LM Studio
+↓
+Extrae la ciudad: Puebla
+↓
+Consulta la API de clima
+↓
+LLM redacta el reporte final
